@@ -63,6 +63,10 @@ The Target HTTP Server provides endpoints for testing and metrics collection:
 
 ## Implementation
 
+### Proposed Architecture
+![](./Architecture.png)
+
+
 ### Orchestrator Node
 
 ```python
